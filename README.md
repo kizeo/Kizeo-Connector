@@ -1,1 +1,1 @@
-# Kizeo-Connector
+# Kizeo Connector
